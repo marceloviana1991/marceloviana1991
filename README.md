@@ -2,7 +2,7 @@
 
 <div>
   <h2>🚀 Sobre mim</h2>
-  <h3>Sou Estudante de Tecnologia em Sistemas para Internet interessado em:</h3>
+  <h3>Estudante de Tecnologia em Sistemas para Internet interessado em:</h3>
     <ul>
       <li>Desenvolvimento back-end;</li>
       <li>API Rest.</li>
