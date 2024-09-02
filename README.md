@@ -1,4 +1,4 @@
-<h1>Olá, sou Marcelo Viana e moro em Aracaju/SE! 👋</h1>
+<h1>Olá, sou Marcelo Viana, moro em Aracaju/SE! 👋</h1>
 
 <div>
   <h2>🚀 Sobre mim</h2>
