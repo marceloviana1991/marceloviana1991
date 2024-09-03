@@ -20,6 +20,7 @@
 <div style="display: inline_block"><br>
   <h2>🛠 Habilidades</h2>
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="flask" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="sqlalchemy" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="springboot" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
