@@ -29,8 +29,8 @@
 <div>
   <h2>Estatísticas</h2>
   <a href="https://github.com/marceloviana1991">
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloviana1991&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=marceloviana1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloviana1991&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=marceloviana1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
