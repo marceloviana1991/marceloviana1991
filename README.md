@@ -1,14 +1,25 @@
-<h1>Olá, sou Marcelo Viana, moro em Aracaju/SE! 👋</h1>
+<h1>Olá, sou Marcelo Viana! 👋</h1>
+<div>
+  <p>Meu nome é Marcelo Viana, sou estudante interessado em aprender desenvolvimento back-end, atualmente estou cursando tecnologia em Sistemas para Internet na FANESE Aracaju-SE, com previsão de conclusão para dezembro de 2026.</p>
+</div>
 
 <div>
   <h2>🚀 Sobre mim</h2>
-  <h3>Estudante de Tecnologia em Sistemas para Internet interessado em:</h3>
     <ul>
-      <li>Desenvolvimento back-end;</li>
-      <li>API Rest.</li>
+      <li>🎓<strong>Formação:</strong> Tecnologia em Sistemas para Internet (Conclusão prevista para dezembro de 2026);</li>
+      <li>🌱<strong>Estudos:</strong> Java, Aplicações Spring Boot, Programação Concorrente e Assíncrona, Python, Manipulação e Modelagem de Dados com SQL Alchemy;</li>
+      <li>📌<strong>Localidade:</strong> Aracaju-SE.</li>
     </ul>
 </div>
 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="springboot" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="flask" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="sqlalchemy" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
+</div>
 
 <div> 
   <h2>🔗 Links</h2>
@@ -17,14 +28,7 @@
 </div>
 
 
-<div style="display: inline_block"><br>
-  <h2>🛠 Habilidades</h2>
-  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="flask" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="sqlalchemy" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="springboot" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-</div>
+
 
 
 
