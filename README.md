@@ -14,6 +14,7 @@
     <ul>
       <li>🎓<strong>Formação:</strong> Tecnologia em Sistemas para Internet (Conclusão prevista para dezembro de 2026);</li>
       <li>🌱<strong>Estudos:</strong> Java, Aplicações Spring Boot, Programação Concorrente e Assíncrona, Python, Manipulação e Modelagem de Dados com SQL Alchemy;</li>
+      <li>👯<strong>Colaboração:</strong> Em busca de projetos para participar como colaborador;</li>
       <li>📌<strong>Localidade:</strong> Aracaju-SE.</li>
     </ul>
 </div>
