@@ -34,6 +34,13 @@
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=marceloviana1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div>
+  <h2>✊ Eu uso Debian</h2>
+  <div align="center" >
+    <a href="https://www.debian.org/index.pt.html"><img src="https://www.debian.org/logos/openlogo-100.jpg"></a></p>
+  </div>
+</div>
+
 
 
 
