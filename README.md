@@ -7,7 +7,7 @@
   <h2>🚀 Sobre mim</h2>
     <ul>
       <li>🎓<strong>Formação:</strong> Tecnologia em Sistemas para Internet (Conclusão prevista para dezembro de 2026)</li>
-      <li>🌱<strong>Estudos:</strong> Atualmente estudando desenvolvimento Web com Java Spring Boot</li>
+      <li>🌱<strong>Estudos:</strong> Desenvolvimento Web </li>
       <li>📌<strong>Localidade:</strong> Aracaju-SE</li>
     </ul>
 </div>
