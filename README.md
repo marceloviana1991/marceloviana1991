@@ -1,7 +1,5 @@
 <h1>Olá, sou Marcelo Viana! 👋</h1>
 <div> 
-  <h2>🔗 Links para contato</h2>
-  <a href = "mailto:marceloviana1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-viana-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -10,7 +8,6 @@
     <ul>
       <li>🎓<strong>Formação:</strong> Tecnologia em Sistemas para Internet (Conclusão prevista para dezembro de 2026)</li>
       <li>🌱<strong>Estudos:</strong> Atualmente estudando desenvolvimento Web com Java Spring Boot</li>
-      <li>👯<strong>Colaboração:</strong> Em busca de projetos para participar como colaborador</li>
       <li>📌<strong>Localidade:</strong> Aracaju-SE</li>
     </ul>
 </div>
@@ -26,7 +23,6 @@
 <div>
   <h2>Estatísticas</h2>
   <a href="https://github.com/marceloviana1991">
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloviana1991&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=marceloviana1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
