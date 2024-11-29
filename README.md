@@ -1,8 +1,4 @@
 <h1>Olá, sou Marcelo Viana! 👋</h1>
-<div>
-  <p>Meu nome é Marcelo Viana, sou estudante interessado em aprender desenvolvimento back-end, atualmente estou cursando tecnologia em Sistemas para Internet na FANESE Aracaju-SE, com previsão de conclusão para dezembro de 2026.</p>
-</div>
-
 <div> 
   <h2>🔗 Links para contato</h2>
   <a href = "mailto:marceloviana1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,10 +8,10 @@
 <div>
   <h2>🚀 Sobre mim</h2>
     <ul>
-      <li>🎓<strong>Formação:</strong> Tecnologia em Sistemas para Internet (Conclusão prevista para dezembro de 2026);</li>
-      <li>🌱<strong>Estudos:</strong> Atualmente estudando Java, Aplicações Spring Boot, Programação Concorrente e Assíncrona. Também estudo paralelamente um pouco de Python, Manipulação e Modelagem de Dados com SQL Alchemy;</li>
-      <li>👯<strong>Colaboração:</strong> Em busca de projetos para participar como colaborador;</li>
-      <li>📌<strong>Localidade:</strong> Aracaju-SE.</li>
+      <li>🎓<strong>Formação:</strong> Tecnologia em Sistemas para Internet (Conclusão prevista para dezembro de 2026)</li>
+      <li>🌱<strong>Estudos:</strong> Atualmente estudando desenvolvimento Web com Java Spring Boot</li>
+      <li>👯<strong>Colaboração:</strong> Em busca de projetos para participar como colaborador</li>
+      <li>📌<strong>Localidade:</strong> Aracaju-SE</li>
     </ul>
 </div>
 
