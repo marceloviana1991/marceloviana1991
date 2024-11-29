@@ -20,16 +20,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="springboot" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="flask" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="sqlalchemy" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="shell" height="60" width="80" src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png">
-  <img align="center" alt="docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="postgresql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Java" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="idea" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
+  <img align="center" alt="maven" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
+  <img align="center" alt="Spring" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  <img align="center" alt="postman" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
 </div>
 
 <div>
