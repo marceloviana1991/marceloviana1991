@@ -18,6 +18,8 @@
   <img align="center" alt="maven" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
   <img align="center" alt="Spring" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img align="center" alt="postman" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+  <img align="center" alt="kotlin" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
+  <img align="center" alt="docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
 </div>
 
 <div>
