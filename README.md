@@ -6,8 +6,8 @@
 <div>
   <h2>🚀 Sobre mim</h2>
     <ul>
-      <li>🎓<strong>Formação:</strong> Tecnologia em Sistemas para Internet (Conclusão prevista para dezembro de 2026)</li>
-      <li>🌱<strong>Estudos:</strong> Desenvolvimento Web </li>
+      <li>🎓<strong>Formação:</strong> Bacharel em Engenharia Civil / Estudante de Pós-graduação Lato Sensu em Engenharia de Software</li>
+      <li>🌱<strong>Estudos:</strong>  Java Back-End / Python Data Science / Kotlin Android / Linux-Docker Automatização </li>
       <li>📌<strong>Localidade:</strong> Aracaju-SE</li>
     </ul>
 </div>
