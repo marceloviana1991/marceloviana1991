@@ -21,6 +21,7 @@
   <img align="center" alt="kotlin" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
   <img align="center" alt="AndroidStudio" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
   <img align="center" alt="docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="kafka" height="60" width="80" src=https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg">
 </div>
 
 <div>
