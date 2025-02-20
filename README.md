@@ -7,7 +7,7 @@
   <h2>🚀 Sobre mim</h2>
     <ul>
       <li>🎓<strong>Formação:</strong> Bacharel em Engenharia Civil / Estudante de Pós-graduação Lato Sensu em Engenharia de Software</li>
-      <li>🌱<strong>Estudos:</strong>  Java Back-End / Python Data Science / Kotlin Android / Linux-Docker DevOps </li>
+      <li>🌱<strong>Estudos:</strong>  Java Back-End / Kotlin Android / Linux-Docker DevOps </li>
       <li>📌<strong>Localidade:</strong> Aracaju-SE</li>
     </ul>
 </div>
