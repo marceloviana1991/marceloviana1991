@@ -12,16 +12,25 @@
     </ul>
 </div>
 
-<div style="display: inline_block"><br>
+<h2>Tecnologias</h2>
+<h3>Java Back-End</h3>
+<div style="display: inline_block">
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="idea" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
-  <img align="center" alt="maven" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
   <img align="center" alt="Spring" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  <img align="center" alt="maven" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
+  <img align="center" alt="idea" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
   <img align="center" alt="postman" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+</div><br>
+<h3>Kotlin Android</h3>
+<div style="display: inline_block">
   <img align="center" alt="kotlin" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
+  <img align="center" alt="gradle" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg">
   <img align="center" alt="AndroidStudio" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
+</div><br>
+<h3>Linux-Docker DevOps</h3>
+<div style="display: inline_block">
   <img align="center" alt="docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-</div>
+</div><br>
 
 <div>
   <h2>Estatísticas</h2>
