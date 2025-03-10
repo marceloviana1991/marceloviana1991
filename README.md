@@ -8,7 +8,7 @@
 <div>
   <h2>Sobre mim</h2>
 
-  ### 💻 Estagiário de Suporte Técnico | Desenvolvimento Android & Java
+  ### 💻 Estagiário de Suporte Técnico | Desenvolvimento back-end e mobile | DevOps
   
   Atualmente, atuo como estagiário de suporte técnico ao cliente em sistemas ERP, auxiliando na resolução de problemas e garantindo uma experiência fluida para os usuários. Essa experiência tem me proporcionado um entendimento profundo sobre a interação entre tecnologia e negócios, além de aprimorar minhas habilidades de comunicação e resolução de problemas.
   
