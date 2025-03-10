@@ -3,34 +3,35 @@
   <a href="https://www.linkedin.com/in/marcelo-viana-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
+
 <div>
-  <h2>🚀 Sobre mim</h2>
-    <ul>
-      <li>🎓<strong>Formação:</strong> Bacharel em Engenharia Civil / Estudante de Pós-graduação Lato Sensu em Engenharia de Software</li>
-      <li>🌱<strong>Estudos:</strong>  Java Back-End / Kotlin Android / Linux-Docker DevOps </li>
-      <li>📌<strong>Localidade:</strong> Aracaju-SE</li>
-    </ul>
+  <h2>Sobre mim</h2>
+
+  ### 💻 Estagiário de Suporte Técnico | Desenvolvimento Android & Java
+  
+  Atualmente, atuo como estagiário de suporte técnico ao cliente em sistemas ERP, auxiliando na resolução de problemas e garantindo uma experiência fluida para os usuários. Essa experiência tem me proporcionado um entendimento profundo sobre a interação entre tecnologia e negócios, além de aprimorar minhas habilidades de comunicação e resolução de problemas.
+  
+  Paralelamente, tenho grande interesse e conhecimento em desenvolvimento de software, com foco em Java Spring Boot para back-end e Android Kotlin para criação de aplicações móveis. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para me tornar um desenvolvedor mais completo.
+
+  <br>
+  
+  ### 🚀 Habilidades:
+  
+  ✔️ Suporte técnico e atendimento ao cliente
+  
+  ✔️ Desenvolvimento back-end
+  
+  ✔️ Desenvolvimento mobile
+  
+  ✔️ Resolução de problemas e pensamento analítico
+
+  <br>
+  
+  💡 *Estou aberto a novas oportunidades e conexões na área de tecnologia! Vamos conversar?*
 </div>
 
-<h2>Tecnologias</h2>
-<h3>Java Back-End</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="Spring" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img align="center" alt="maven" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
-  <img align="center" alt="idea" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
-  <img align="center" alt="postman" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
-</div><br>
-<h3>Kotlin Android</h3>
-<div style="display: inline_block">
-  <img align="center" alt="kotlin" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
-  <img align="center" alt="gradle" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg">
-  <img align="center" alt="AndroidStudio" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
-</div><br>
-<h3>Linux-Docker DevOps</h3>
-<div style="display: inline_block">
-  <img align="center" alt="docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-</div><br>
+<br>
 
 <div>
   <h2>Estatísticas</h2>
