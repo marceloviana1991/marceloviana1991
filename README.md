@@ -12,7 +12,8 @@
   
   Atualmente, atuo como estagiário de suporte técnico ao cliente em sistemas ERP, auxiliando na resolução de problemas e garantindo uma experiência fluida para os usuários. Essa experiência tem me proporcionado um entendimento profundo sobre a interação entre tecnologia e negócios, além de aprimorar minhas habilidades de comunicação e resolução de problemas.
   
-  Paralelamente, tenho grande interesse e conhecimento em desenvolvimento de software, com foco em Java Spring Boot para back-end e Android Kotlin para criação de aplicações móveis. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para me tornar um desenvolvedor mais completo.
+  Paralelamente, tenho grande interesse e conhecimento em desenvolvimento de software, com foco em Java e Kotlin com Spring Boot para back-end e Dart com Flutter para criação de aplicações móveis. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para me tornar um desenvolvedor mais completo.
+
 
   <br>
   
