@@ -18,13 +18,17 @@
   
   ### 🚀 Habilidades:
   
-  ✔️ Suporte técnico e atendimento ao cliente
-  
-  ✔️ Desenvolvimento back-end
-  
-  ✔️ Desenvolvimento mobile
-  
-  ✔️ Resolução de problemas e pensamento analítico
+✔️ Suporte técnico e atendimento ao cliente
+
+✔️ Resolução de problemas e pensamento analítico
+
+✔️ Lei Geral de Proteção de Dados
+
+✔️ Modelagem de dados 
+
+✔️ Desenvolvimento web
+
+✔️ Práticas de DevOps
 
   <br>
   
