@@ -18,17 +18,17 @@
   
   ### 🚀 Habilidades:
   
-✔️ Suporte técnico e atendimento ao cliente
+✅ Suporte técnico e atendimento ao cliente
 
-✔️ Resolução de problemas e pensamento analítico
+✅ Resolução de problemas e pensamento analítico
 
-✔️ Lei Geral de Proteção de Dados
+✅ Lei Geral de Proteção de Dados
 
-✔️ Modelagem de dados 
+✅ Modelagem de dados 
 
-✔️ Desenvolvimento web
+✅ Desenvolvimento web
 
-✔️ Práticas de DevOps
+✅ Práticas de DevOps
 
   <br>
   
