@@ -8,17 +8,15 @@
 <div>
   <h2>Sobre mim</h2>
 
-  ### 💻 Estagiário de Suporte Técnico | Desenvolvimento web
+  ### 💻 Suporte técnico | Desenvolvimento de sistemas
   
-  Atualmente, atuo como estagiário de suporte técnico ao cliente em sistemas ERP, auxiliando na resolução de problemas e garantindo uma experiência fluida para os usuários. Essa experiência tem me proporcionado um entendimento profundo sobre a interação entre tecnologia e negócios, além de aprimorar minhas habilidades de comunicação e resolução de problemas.
-  
-  Paralelamente, tenho grande interesse e conhecimento em desenvolvimento de software, com foco em Java e Kotlin com Spring Boot para aplicações web. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para me tornar um desenvolvedor mais completo.
+  Profissional de tecnologia em busca de oportunidades desafiadoras e inovadoras, onde possa aplicar meus conhecimentos em desenvolvimento de sistemas e suporte técnico para contribuir com o sucesso da empresa.
 
   <br>
   
   ### 🚀 Habilidades:
   
-✅ Suporte técnico e atendimento ao cliente
+✅ Suporte técnico
 
 ✅ Resolução de problemas e pensamento analítico
 
