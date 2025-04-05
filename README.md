@@ -8,9 +8,7 @@
 <div>
   <h2>Sobre mim</h2>
 
-  ### 💻 Suporte técnico | Desenvolvimento de sistemas
-  
-  Profissional de tecnologia em busca de oportunidades desafiadoras e inovadoras, onde possa aplicar meus conhecimentos em desenvolvimento de sistemas e suporte técnico para contribuir com o sucesso da empresa.
+  ### 💻 Analista de suporte | Desenvolvimento de aplicações
 
   <br>
   
@@ -18,19 +16,15 @@
   
 ✅ Suporte técnico
 
-✅ Resolução de problemas e pensamento analítico
-
-✅ Lei Geral de Proteção de Dados
-
 ✅ Modelagem de dados 
 
-✅ Desenvolvimento web
+✅ Desenvolvimento back-end Spring Boot Java
+
+✅ Desenvolvimento Android Kotlin
 
 ✅ Práticas de DevOps
 
   <br>
-  
-  💡 *Estou aberto a novas oportunidades e conexões na área de tecnologia! Vamos conversar?*
 </div>
 
 <br>
