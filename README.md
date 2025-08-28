@@ -5,24 +5,15 @@
 
 <br>
 
-<div>
-  <h2>Sobre mim</h2>
-
-  ### 💻 Analista de suporte | Desenvolvimento de aplicações
-
-  <br>
+<div></div>
   
   ### 🚀 Habilidades:
-  
-✅ Suporte técnico
 
-✅ Modelagem de dados 
+✅ Desenvolvimento front-end Angular
+ 
+✅ Desenvolvimento back-end Spring Boot
 
-✅ Desenvolvimento back-end Spring Boot Java
-
-✅ Desenvolvimento Android Kotlin
-
-✅ Práticas de DevOps
+✅ Cloud AWS
 
   <br>
 </div>
